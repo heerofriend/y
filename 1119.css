@@ -1,0 +1,135 @@
+﻿
+	red { 
+            color: #FF0000;
+            font-size: 30px;
+            font-family: BiauKai;
+
+	}
+    blue{ 
+   font-family:Microsoft YaHei;
+   font-size: 22px;
+   color: #191970; 
+
+
+    }
+    green { 
+    	font-family:Microsoft YaHei;
+   font-size: 24px;
+   color: #FF00FF; 
+
+      }
+
+	#shbz_content{
+		
+		float: center;
+		width: 840px;
+		height:870px;
+		margin: 30px;
+		border:1px solid #dad6d5;
+	}
+
+	#shbz_p{
+		font-size: 20px;
+		 font-family:"Microsoft YaHei"; 
+		text-indent: 40px;
+	
+	}
+	#shbz_jieshao{
+	
+		width:510px; 
+		height:240px;
+		 float:left; 
+		 color:#323232; 
+		 padding: 5px;
+
+	}
+     #shbz_video{
+       
+     	width:320px; height:240px; float:left; 
+     }
+      #shbz_video video{
+
+      	width: 320px;
+      	height: 240px;
+      }
+	#shbz_nav{
+		margin-left:40px; 
+		margin-top: 10px;
+		
+		width: auto;
+		height: 71px;
+		float: left;
+		padding-left:24px; 
+	
+	
+	}
+	#nav_logo{
+		float: left;
+		padding-left:20px; 
+	}
+
+	#shbz_nav ul{padding-left:1px; }
+
+	#shbz_nav ul li{ float:left;  list-style:none;}
+.container_img{
+	float: left;
+}
+
+#shbz_hd{ 
+margin-top:20px; 
+ float: left;
+
+FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=##15A216,endColorStr=#fafafa); /*IE*/ 
+background:-moz-linear-gradient(top,#15A216,#fafafa);/*火狐*/ 
+background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#15A216), to(#fafafa));/*谷歌*/ 
+background-image: -webkit-gradient(linear,left bottom,left top,color-start(0, #15A216),color-stop(1, #fafafa));/* Safari & Chrome*/ 
+filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#15A216', endColorstr='#fafafa'); /*IE6 & IE7*/ 
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#15A216', endColorstr='#fafafa')"; /* IE8 */ 
+width: 190px;
+
+height: 465px;
+ }
+ 
+  #shbz_hd_title p{ 
+  		text-indent: 16px;
+  		font-size: 14px;
+  		font-family: "Microsoft YaHei"
+    }
+    
+  #shbz_hd_logo {
+  	 margin: 0px;
+
+  }
+  #teacher{
+  	padding: 2px 30px;
+  	margin-top: 2px 10px;
+   width: 810px;
+   height: 100px;
+  float: left;
+
+  }
+  .teacher_lx{
+  	width: 80px;
+  	float: left;
+  }
+  .teacher_img{
+  	margin-left: 40px;
+  	float: left;
+  }
+
+  .teacher_tel{
+  		margin-left: 40px;
+  	float: left;
+  }
+  .teacher_email{
+  		margin-left: 40px;
+  	float: left;
+  }
+  .teacher_weixin{
+  		margin-left:20px;
+  	float: left;
+  }
+.teacher_img_x{
+	font-size: 20px;
+	font-family: heiti;
+}
